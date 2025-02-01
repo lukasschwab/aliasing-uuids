@@ -1,4 +1,4 @@
-package string_alias
+package string_type
 
 type ID string
 

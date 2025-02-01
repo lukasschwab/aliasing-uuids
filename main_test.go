@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	widget "github.com/lukasschwab/aliasing-uuids/pkg/string_alias"
+	widget "github.com/lukasschwab/aliasing-uuids/pkg/string_type"
 	// widget "github.com/lukasschwab/aliasing-uuids/pkg/uuid_embed"
 	// widget "github.com/lukasschwab/aliasing-uuids/pkg/uuid_type"
 	// widget "github.com/lukasschwab/aliasing-uuids/pkg/uuid_alias"
