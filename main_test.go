@@ -1,13 +1,14 @@
-package widget_test
+package main_test
 
 import (
 	"encoding/json"
 	"fmt"
 	"testing"
 
-	// widget "github.com/lukasschwab/aliasing-uuids/pkg/string_alias"
+	widget "github.com/lukasschwab/aliasing-uuids/pkg/string_alias"
 	// widget "github.com/lukasschwab/aliasing-uuids/pkg/uuid_embed"
-	widget "github.com/lukasschwab/aliasing-uuids/pkg/uuid_alias"
+	// widget "github.com/lukasschwab/aliasing-uuids/pkg/uuid_type"
+	// widget "github.com/lukasschwab/aliasing-uuids/pkg/uuid_alias"
 
 	"github.com/peterldowns/testy/assert"
 )
